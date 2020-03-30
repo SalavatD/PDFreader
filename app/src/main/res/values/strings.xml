@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDF reader</string>
+    <string name="about">About</string>
+    <string name="author">Author: Salavat Dautov</string>
+    <string name="сreation_date">Сreation date: March 30, 2020</string>
+    <string name="my_github_link">https://github.com/SalavatD</string>
+    <string name="github">GitHub</string>
+    <string name="button_back_text">Back</string>
+    <string name="button_next_text">Next</string>
+    <string name="button_zoom_in_text">+</string>
+    <string name="button_zoom_out_text">-</string>
+</resources>
